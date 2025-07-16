@@ -19,11 +19,6 @@ Kişilik analizi yapan AI tabanlı film öneri sistemi. Kullanıcıların izleme
 
 **Teknolojiler:** Flutter, Node.js, Supabase, Docker, AI/ML
 
-
-
-### 💻 En Çok Kullandığım Teknolojiler
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tansu-Uysal&layout=compact&theme=radical)
-
 ### 📫 İletişim
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tansu-uysal/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.2uysal@gmail.com)
